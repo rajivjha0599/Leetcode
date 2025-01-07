@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rajivjha0599/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Database
+|  |
+| ------- |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/rajivjha0599/Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 <!---LeetCode Topics End-->
