@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/rajivjha0599/Leetcode/tree/master/0456-132-pattern) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rajivjha0599/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/rajivjha0599/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 ## Database
@@ -17,9 +18,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/rajivjha0599/Leetcode/tree/master/0456-132-pattern) |
 | [1552-build-an-array-with-stack-operations](https://github.com/rajivjha0599/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/rajivjha0599/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
+## Binary Search
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/rajivjha0599/Leetcode/tree/master/0456-132-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/rajivjha0599/Leetcode/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/rajivjha0599/Leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
