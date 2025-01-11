@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/rajivjha0599/Leetcode/tree/master/0456-132-pattern) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rajivjha0599/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rajivjha0599/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/rajivjha0599/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 ## Database
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/rajivjha0599/Leetcode/tree/master/0456-132-pattern) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rajivjha0599/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1552-build-an-array-with-stack-operations](https://github.com/rajivjha0599/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
@@ -32,8 +34,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/rajivjha0599/Leetcode/tree/master/0456-132-pattern) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rajivjha0599/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Ordered Set
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/rajivjha0599/Leetcode/tree/master/0456-132-pattern) |
+## Two Pointers
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rajivjha0599/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rajivjha0599/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rajivjha0599/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
