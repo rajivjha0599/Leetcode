@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rajivjha0599/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/rajivjha0599/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Stack
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajivjha0599/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/rajivjha0599/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Sorting
 |  |
 | ------- |
