@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rajivjha0599/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rajivjha0599/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/rajivjha0599/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2470-removing-stars-from-a-string](https://github.com/rajivjha0599/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rajivjha0599/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/rajivjha0599/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rajivjha0599/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2470-removing-stars-from-a-string](https://github.com/rajivjha0599/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Database
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-clumsy-factorial](https://github.com/rajivjha0599/Leetcode/tree/master/1048-clumsy-factorial) |
 | [1552-build-an-array-with-stack-operations](https://github.com/rajivjha0599/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rajivjha0599/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2470-removing-stars-from-a-string](https://github.com/rajivjha0599/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search
 |  |
 | ------- |
