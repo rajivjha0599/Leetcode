@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/rajivjha0599/Leetcode/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajivjha0599/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/rajivjha0599/Leetcode/tree/master/0621-task-scheduler) |
 | [1552-build-an-array-with-stack-operations](https://github.com/rajivjha0599/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rajivjha0599/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Simulation
@@ -54,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajivjha0599/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/rajivjha0599/Leetcode/tree/master/0621-task-scheduler) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/rajivjha0599/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Sorting
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajivjha0599/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/rajivjha0599/Leetcode/tree/master/0621-task-scheduler) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rajivjha0599/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/rajivjha0599/Leetcode/tree/master/0621-task-scheduler) |
 ## Queue
 |  |
 | ------- |
@@ -76,4 +80,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rajivjha0599/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/rajivjha0599/Leetcode/tree/master/0621-task-scheduler) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/rajivjha0599/Leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
